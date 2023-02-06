@@ -1,0 +1,150 @@
+derived_cluster_id,absenthours,jobtitle,employeenumber,division,storelocation,departmentname,businessunit,age,givenname,city,surname,gender,lengthservice
+0,0.0,Shelf Stocker,784,Stores,Richmond,Processed Foods,Stores,28.99518348,Charles,Richmond,Wilson,1,3.164865916
+1,26.13225838,Dairy Person,778,Stores,Victoria,Dairy,Stores,27.18565308,Diane,Victoria,Finch,0,4.980820537
+25769803776,0.0,Dairy Person,777,Stores,Victoria,Dairy,Stores,22.88753708,Mickey,Victoria,Clarke,0,3.767069066
+34359738368,0.0,Dairy Person,715,Stores,Vancouver,Dairy,Stores,28.3542679,Shelly,Vancouver,Ford,0,7.790652138
+42949672960,14.37957402,Baker,727,Stores,Victoria,Bakery,Stores,28.82186505,Dolores,Victoria,Coleman,0,6.282650822
+42949672961,0.0,Dairy Person,719,Stores,Richmond,Dairy,Stores,25.98603314,Chester,Richmond,Baughman,1,5.998214852
+51539607552,33.89567742,Meat Cutter,286,Stores,Victoria,Meats,Stores,29.62018195,Mary,Victoria,Valencia,0,2.922333018
+77309411328,0.0,Shelf Stocker,839,Stores,Victoria,Processed Foods,Stores,27.8011147,Jessie,Victoria,Crowe,0,1.788740173
+77309411329,0.0,Shelf Stocker,782,Stores,Nanaimo,Processed Foods,Stores,29.3158471,Jacque,Nanaimo,Leonard,0,3.713345893
+85899345920,0.0,Produce Clerk,818,Stores,Vancouver,Produce,Stores,27.09677037,Pamela,Vancouver,Curtis,0,4.201605188
+94489280512,0.0,Meat Cutter,290,Stores,Kelowna,Meats,Stores,27.36671405,James,Peachland,Angulo,1,4.072116626
+103079215104,0.0,Shelf Stocker,787,Stores,Surrey,Processed Foods,Stores,23.00229499,Ronald,Surrey,Carrero,1,4.190516768
+111669149696,22.4190437,Meat Cutter,275,Stores,Nanaimo,Meats,Stores,25.64256768,Wm,Oyster River,Witt,1,2.579771518
+128849018880,0.0,Shelf Stocker,791,Stores,Kamloops,Processed Foods,Stores,21.25007437,Francesca,Kamloops,Britt,0,4.370439228
+137438953472,0.0,Produce Clerk,822,Stores,Vancouver,Produce,Stores,25.43448549,Rebecca,Vancouver,Simpson,0,3.904857074
+146028888064,0.0,Shelf Stocker,828,Stores,Kelowna,Processed Foods,Stores,24.47713673,Glen,Penticton,Santos,1,3.458011135
+163208757248,0.0,Cashier,768,Stores,Vancouver,Customer Service,Stores,24.78919977,Patricia,Vancouver,Martin,0,4.69119017
+171798691840,0.0,Cashier,811,Stores,Prince George,Customer Service,Stores,21.81651777,Carlos,Horsefly,Norris,1,4.323361427
+214748364800,0.0,Meat Cutter,276,Stores,Nanaimo,Meats,Stores,23.29213324,Cheryl,Nanaimo,Renfro,0,4.432918931
+223338299392,0.411764171,Baker,848,Stores,Vancouver,Bakery,Stores,29.81307393,Rachel,Vancouver,Goldsberry,0,5.301479518
+240518168576,5.420318596,Dairy Person,793,Stores,Grand Forks,Dairy,Stores,27.91770869,Andrew,Grand Forks,Parker,1,5.011668982
+240518168577,7.384366753,Dairy Person,706,Stores,Surrey,Dairy,Stores,28.66956475,Samuel,Surrey,Hancock,1,7.153685669
+240518168578,0.0,Meat Cutter,837,Stores,Haney,Meats,Stores,29.4425681,Estelle,Haney,Wright,0,2.587794235
+257698037760,0.0,Meat Cutter,273,Stores,Cranbrook,Meats,Stores,21.02922645,Richard,Cranbrook,McGowan,1,2.888395496
+266287972352,0.0,Dairy Person,713,Stores,Vancouver,Dairy,Stores,27.38302518,Alice,Vancouver,Defreitas,0,4.269679781
+283467841536,0.0,Cashier,840,Stores,Squamish,Customer Service,Stores,24.355444,Jaime,Whistler,Wright,1,4.149260443
+292057776128,0.0,Baker,845,Stores,Vancouver,Bakery,Stores,29.45680416,Robin,Vancouver,Thomas,0,3.839321989
+292057776129,0.0,Shelf Stocker,826,Stores,Victoria,Processed Foods,Stores,29.5926399,Mary,Victoria,Turley,0,6.407032318
+317827579904,0.0,Meat Cutter,295,Stores,Chilliwack,Meats,Stores,25.67623869,Olivia,Chilliwack,Morgan,0,5.017712943
+335007449088,12.10112434,Dairy Person,820,Stores,Fort St John,Dairy,Stores,26.51147615,Erica,Fort St John,Taylor,0,0.933906268
+343597383680,0.0,Baker,716,Stores,Abbotsford,Bakery,Stores,26.50452706,Ray,Abbotsford,Campbell,1,4.006027159
+352187318272,0.0,Meat Cutter,296,Stores,Victoria,Meats,Stores,23.03575559,Fredia,Victoria,Thomas,0,3.485033407
+360777252864,0.0,Dairy Person,790,Stores,Burnaby,Dairy,Stores,28.04880923,Eva,Burnaby,Hayes,0,6.359855919
+386547056640,0.0,Dairy Person,781,Stores,Victoria,Dairy,Stores,27.2428222,Matthew,Victoria,Grady,1,3.994321217
+403726925824,0.0,Dairy Person,712,Stores,Vancouver,Dairy,Stores,29.89262806,Katrina,Vancouver,Delisle,0,3.620472145
+446676598784,0.0,Dairy Person,280,Stores,Vancouver,Dairy,Stores,21.75384823,Judith,Vancouver,Blunt,0,5.00132747
+455266533376,0.0,Baker,699,Stores,Vancouver,Bakery,Stores,22.39825538,Ivy,Vancouver,Anderson,0,6.540384846
+489626271744,0.0,Meat Cutter,809,Stores,Vancouver,Meats,Stores,26.13046821,Bonnie,Vancouver,Bowlin,0,3.403684876
+498216206336,0.0,Meat Cutter,293,Stores,Surrey,Meats,Stores,28.54726428,Leslie,Surrey,Alexander,0,2.709307869
+532575944704,35.09608992,Cashier,762,Stores,Vernon,Customer Service,Stores,24.42078867,Sabrina,Lumby,Lemaster,0,4.209198472
+541165879296,0.0,Shelf Stocker,774,Stores,Kelowna,Processed Foods,Stores,13.62593097,Paula,Kelowna,Tuggle,0,3.644857327
+549755813888,0.0,Shelf Stocker,780,Stores,Surrey,Processed Foods,Stores,20.58032704,Sharon,Surrey,Funches,0,4.325804911
+566935683072,31.26373052,Meat Cutter,271,Stores,Squamish,Meats,Stores,27.27421672,Marilyn,Whistler,Shimizu,0,4.220411884
+566935683073,0.0,Cashier,767,Stores,Vancouver,Customer Service,Stores,19.57738272,Mary,Vancouver,Gamble,0,6.527897473
+592705486848,9.970618572,Cashier,814,Stores,Vernon,Customer Service,Stores,27.42021601,Charles,Black Point,Napoleon,1,5.257592481
+592705486849,0.0,Baker,703,Stores,Vancouver,Bakery,Stores,29.80402918,Marcia,Vancouver,Quin,0,5.091531423
+609885356032,0.0,Dairy Person,806,Stores,Aldergrove,Dairy,Stores,27.05558412,Maxine,Aldergrove,Haines,0,3.769972247
+609885356033,0.0,Cashier,815,Stores,Quesnel,Customer Service,Stores,29.68005864,Elizabeth,Likely,Spencer,0,4.97696107
+618475290624,0.0,Meat Cutter,287,Stores,Richmond,Meats,Stores,26.59883793,Eric,Richmond,Funk,1,5.107575785
+618475290625,0.0,Produce Clerk,838,Stores,Vancouver,Produce,Stores,26.18385587,Sylvia,Vancouver,Williams,0,8.785317618
+627065225216,0.0,Shelf Stocker,831,Stores,Kamloops,Processed Foods,Stores,29.19910151,Eric,Kamloops,Rodriquez,1,3.993888491
+652835028992,29.71699626,Shelf Stocker,769,Stores,North Vancouver,Processed Foods,Stores,26.28895994,Trina,North Vancouver,White,0,4.305154765
+670014898176,0.0,Produce Clerk,821,Stores,Vancouver,Produce,Stores,27.20297121,Jack,Vancouver,Vargas,1,4.42751924
+670014898177,0.0,Meat Cutter,285,Stores,Victoria,Meats,Stores,18.59961724,Joanne,Victoria,Ellison,0,6.615868633
+670014898178,12.43859963,Meat Cutter,801,Stores,Vancouver,Meats,Stores,29.16817014,Janice,Vancouver,Moore,0,3.419261919
+678604832768,58.5623395,Shelf Stocker,800,Stores,Chilliwack,Processed Foods,Stores,28.80714635,Lucille,Sardis,Holly,0,5.845386454
+687194767360,14.62730672,Dairy Person,773,Stores,New Westminster,Dairy,Stores,25.55712932,Juli,New Westminster,Kimbrough,0,6.069744353
+687194767361,0.0,Meat Cutter,291,Stores,Kamloops,Meats,Stores,29.2257026,Janice,Merritt,Simmons,0,4.575238827
+695784701952,0.0,Shelf Stocker,718,Stores,Nanaimo,Processed Foods,Stores,29.09255898,Vanessa,Port Hardy,Smith,0,5.857219296
+704374636544,0.0,Cashier,760,Stores,Quesnel,Customer Service,Stores,20.17467851,Ann,Dragon Lake,Young,0,5.252586158
+730144440320,0.0,Meat Cutter,281,Stores,Victoria,Meats,Stores,22.88958251,Caleb,Victoria,Pyatt,1,3.287014158
+738734374912,0.0,Meat Cutter,289,Stores,Nanaimo,Meats,Stores,26.32149208,Dale,Port Alberni,Palmer,0,4.388794433
+764504178688,42.5612577,Shelf Stocker,794,Stores,Kelowna,Processed Foods,Stores,26.58027592,Mary,Kelowna,Wilson,0,4.115894197
+764504178689,29.79851161,Cashier,763,Stores,Vancouver,Customer Service,Stores,28.67576863,Cecil,Vancouver,Henderson,1,3.743903798
+764504178690,0.0,Baker,847,Stores,Vancouver,Bakery,Stores,24.83404582,Jodi,Vancouver,McGrath,0,4.750752787
+773094113280,0.0,Dairy Person,717,Stores,Vancouver,Dairy,Stores,22.47465931,Anthony,Vancouver,Herrera,1,7.470752399
+773094113281,0.0,Dairy Person,764,Stores,Victoria,Dairy,Stores,26.95413722,Lupe,Victoria,Burdett,0,4.211798508
+781684047872,0.0,Dairy Person,702,Stores,Kelowna,Dairy,Stores,27.40973409,James,Kelowna,Martin,1,5.269421578
+781684047873,0.0,Shelf Stocker,761,Stores,Fort Nelson,Processed Foods,Stores,26.17257363,Fannie,Fort Nelson,White,0,5.972040796
+781684047874,0.0,Dairy Person,710,Stores,Burnaby,Dairy,Stores,25.6885012,Jaime,Burnaby,Hayes,1,0.979190569
+790273982464,0.0,Dairy Person,725,Stores,Kamloops,Dairy,Stores,29.28818893,Floyd,Kamloops,Sabb,1,8.731942227
+807453851648,0.0,Dairy Person,759,Stores,New Westminster,Dairy,Stores,29.28095273,Walter,New Westminster,Robinson,1,4.441458726
+807453851649,0.0,Shelf Stocker,724,Stores,Chilliwack,Processed Foods,Stores,25.23251886,Roberta,Chilliwack,Alexander,0,5.672137988
+824633720832,0.0,Shelf Stocker,789,Stores,Chilliwack,Processed Foods,Stores,28.98888546,Celestine,Rosedale,Peace,0,4.867869584
+841813590016,7.27820591,Shelf Stocker,832,Stores,Cranbrook,Processed Foods,Stores,28.99831703,Shawna,Golden,Garcia,0,3.809976618
+850403524608,0.0,Cashier,830,Stores,Prince George,Customer Service,Stores,28.99907491,Allen,Prince George,Sykes,1,2.045064897
+876173328384,0.0,Meat Cutter,807,Stores,Vancouver,Meats,Stores,29.52905691,Victor,Vancouver,Mathis,1,6.656199616
+876173328385,0.0,Dairy Person,816,Stores,Burnaby,Dairy,Stores,28.49692391,Rodney,Burnaby,Diaz,1,5.244390135
+884763262976,52.71865764,Meat Cutter,796,Stores,Vancouver,Meats,Stores,29.51808987,Claudia,Vancouver,Thao,0,5.284054604
+884763262977,6.653166541,Shelf Stocker,797,Stores,Surrey,Processed Foods,Stores,28.30275399,Beulah,Surrey,Lail,0,3.251140703
+884763262978,0.0,Cashier,824,Stores,North Vancouver,Customer Service,Stores,24.87362768,Ray,North Vancouver,Forrester,1,5.641875398
+927712935936,0.0,Cashier,813,Stores,Chilliwack,Customer Service,Stores,20.06969018,Rick,Sardis,Bowling,1,4.493386684
+927712935937,0.0,Baker,297,Stores,Burnaby,Bakery,Stores,24.00193398,Juan,Burnaby,Atkins,1,3.975029017
+953482739712,0.0,Shelf Stocker,765,Stores,Langley,Processed Foods,Stores,29.93985729,Allen,Langley,James,1,6.477535828
+970662608896,0.0,Baker,707,Stores,Vancouver,Bakery,Stores,28.96621556,Kathy,Vancouver,Slate,0,3.930340416
+970662608897,0.0,Meat Cutter,277,Stores,Cranbrook,Meats,Stores,24.54615621,Shane,Woss,Carter,1,5.167233029
+979252543488,7.896033188,Dairy Person,804,Stores,Victoria,Dairy,Stores,29.8465617,John,Pender Harbour,Kessler,1,2.982615081
+979252543489,0.0,Produce Clerk,817,Stores,Vancouver,Produce,Stores,23.3741181,Constance,Vancouver,Perry,0,5.642597155
+1005022347264,0.0,Dairy Person,709,Stores,Vancouver,Dairy,Stores,22.62132395,Steven,Vancouver,Vega,1,3.891974318
+1013612281856,0.0,Cashier,834,Stores,Squamish,Customer Service,Stores,28.21773399,Linda,Squamish,Fruge,0,5.164879299
+1030792151040,22.95235673,Shelf Stocker,823,Stores,New Westminster,Processed Foods,Stores,24.97433732,Clara,New Westminster,Gillespie,0,4.878011132
+1047972020224,0.0,Baker,779,Stores,Abbotsford,Bakery,Stores,26.00943121,Marquis,Abbotsford,Guenther,1,5.780101412
+1065151889408,0.0,Dairy Person,775,Stores,New Westminster,Dairy,Stores,17.55842607,Daniel,New Westminster,Schuler,1,4.257231921
+1065151889409,26.28469864,Meat Cutter,802,Stores,Vancouver,Meats,Stores,26.36216543,Brenda,Vancouver,Kern,0,5.812554422
+1065151889410,29.73127031,Dairy Person,722,Stores,Kelowna,Dairy,Stores,29.46319484,Dona,Penticton,Hamm,0,3.240963773
+1082331758592,0.0,Shelf Stocker,704,Stores,Nanaimo,Processed Foods,Stores,22.18349555,Leslee,Vananda,Parsons,0,5.519632617
+1090921693184,7.422475595,Cashier,799,Stores,Nanaimo,Customer Service,Stores,28.6067114,Nathan,Nanaimo,Duncan,1,7.091484479
+1090921693185,0.719281033,Meat Cutter,284,Stores,Kelowna,Meats,Stores,25.62267023,Margot,Kelowna,Sanchez,0,4.667347785
+1099511627776,44.48209709,Meat Cutter,283,Stores,New Westminster,Meats,Stores,28.37924309,Jeremiah,New Westminster,Wilson,1,7.177054517
+1099511627777,0.079246805,Cashier,770,Stores,Prince George,Customer Service,Stores,25.13037265,Cheryl,Chetwynd,Gengler,0,2.94088725
+1142461300736,39.50915465,Meat Cutter,812,Stores,Vancouver,Meats,Stores,28.30081923,Dalton,Vancouver,Snyder,1,6.576910909
+1151051235328,0.0,Shelf Stocker,795,Stores,Trail,Processed Foods,Stores,26.31861891,Alex,Vallican,McMaster,1,3.450329363
+1159641169920,0.0,Produce Clerk,833,Stores,Vancouver,Produce,Stores,26.37201352,Randall,Vancouver,Veit,1,5.018749371
+1176821039104,4.910032851,Cashier,772,Stores,Vancouver,Customer Service,Stores,28.21871187,Marcia,Vancouver,Edwards,0,4.055803725
+1176821039105,0.0,Baker,711,Stores,Cranbrook,Bakery,Stores,29.24050156,Angela,Sparwood,Edmunds,0,4.567276431
+1185410973696,15.87280517,Meat Cutter,298,Stores,New Westminster,Meats,Stores,26.12751023,Paula,New Westminster,Healey,0,2.279210558
+1194000908288,9.889106337,Meat Cutter,272,Stores,Nanaimo,Meats,Stores,28.72535854,Sadie,Campbell River,Thompson,0,4.351876668
+1194000908289,0.0,Cashier,783,Stores,Quesnel,Customer Service,Stores,13.80410539,Matthew,Quesnel,Jimenez,1,7.376609022
+1202590842880,0.0,Meat Cutter,294,Stores,New Westminster,Meats,Stores,19.76295284,Norman,New Westminster,Avery,1,2.970641917
+1236950581248,0.0,Meat Cutter,278,Stores,Terrace,Meats,Stores,22.51415219,Emory,Cassiar,Peet,1,2.961018673
+1236950581249,13.4534406,Dairy Person,827,Stores,Fort St John,Dairy,Stores,28.33900959,Sonya,Tumbler Ridge,Bowman,0,6.870304652
+1262720385024,0.0,Shelf Stocker,829,Stores,New Westminister,Processed Foods,Stores,26.21799451,Dewitt,New Westminister,Doucette,1,5.82929556
+1279900254208,0.0,Baker,726,Stores,Victoria,Bakery,Stores,20.4191495,Gary,Victoria,Reveles,1,9.630750543
+1279900254209,0.0,Baker,701,Stores,Vancouver,Bakery,Stores,28.44249451,Elizabeth,Vancouver,See,0,4.440074731
+1288490188800,0.0,Baker,846,Stores,Vancouver,Bakery,Stores,26.2906808,Paul,Vancouver,Choi,1,6.934936361
+1288490188801,0.0,Meat Cutter,269,Stores,Chilliwack,Meats,Stores,27.72635402,Edna,Chilliwack,Duke,0,5.702352558
+1288490188802,7.796503394,Dairy Person,721,Stores,Surrey,Dairy,Stores,24.18466978,Aaron,Surrey,Stephens,1,5.169787115
+1305670057984,27.23285826,Dairy Person,788,Stores,Fort St John,Dairy,Stores,27.84650782,Nicole,Taylor,Ferguson,0,4.956032475
+1322849927168,0.0,Meat Cutter,282,Stores,Langley,Meats,Stores,25.46299215,Richard,Langley,Miller,1,5.872443863
+1331439861760,0.0,Meat Cutter,279,Stores,Squamish,Meats,Stores,26.25249913,Gordon,Whistler,Eudy,1,5.298144692
+1374389534720,11.38355544,Cashier,844,Stores,Prince George,Customer Service,Stores,22.90814366,Esther,Francois Lake,Johnson,0,6.176120847
+1400159338496,0.0,Dairy Person,785,Stores,Victoria,Dairy,Stores,26.15730542,Stephen,Victoria,Elliot,1,3.466292439
+1408749273088,0.0,Dairy Person,720,Stores,Vancouver,Dairy,Stores,17.13476454,Christina,Vancouver,Hammond,0,6.956961098
+1417339207680,0.0,Meat Cutter,805,Stores,Vancouver,Meats,Stores,26.52265643,Mary,Vancouver,Weathers,0,3.914204699
+1425929142272,0.0,Dairy Person,708,Stores,Langley,Dairy,Stores,22.73921286,Kendra,Fort Langley,Walther,0,6.035442024
+1425929142273,0.0,Dairy Person,843,Stores,Burnaby,Dairy,Stores,28.65195036,Harriet,Burnaby,Gonzalez,0,3.578063141
+1460288880640,4.296643201,Shelf Stocker,842,Stores,Victoria,Processed Foods,Stores,21.51047689,Beulah,Victoria,Jones,0,4.598178089
+1477468749824,0.0,Dairy Person,288,Stores,West Vancouver,Dairy,Stores,29.81647315,Aaron,Gibsons,Scott,1,4.452309623
+1503238553600,4.894952119,Shelf Stocker,819,Stores,Trail,Processed Foods,Stores,29.42825654,Clinton,Vallican,Catchings,1,2.412072274
+1520418422784,0.0,Shelf Stocker,835,Stores,Victoria,Processed Foods,Stores,22.25462841,Jamel,Victoria,Ramirez,1,5.569685485
+1520418422785,0.0,Dairy Person,792,Stores,Victoria,Dairy,Stores,28.22008962,Russell,Victoria,Ellis,1,4.725246816
+1520418422786,0.0,Cashier,771,Stores,Prince George,Customer Service,Stores,28.54380419,Elizabeth,Burns Lake,Bridwell,0,3.335289376
+1520418422787,0.0,Meat Cutter,798,Stores,Vancouver,Meats,Stores,19.48279383,Kathleen,Vancouver,Fretwell,0,4.793174233
+1537598291968,0.0,Meat Cutter,292,Stores,Victoria,Meats,Stores,29.14411831,Gordon,Victoria,Smith,1,3.121117538
+1554778161152,0.0,Cashier,786,Stores,Vancouver,Customer Service,Stores,29.92821967,Lisa,Vancouver,Rodriguez,0,1.921525899
+1571958030336,0.0,Cashier,825,Stores,Trail,Customer Service,Stores,18.55942169,Jason,Rossland,Gould,1,5.876128243
+1580547964928,0.0,Dairy Person,705,Stores,Surrey,Dairy,Stores,27.74126499,Aisha,Surrey,Darlington,0,5.071917672
+1589137899520,1.461628364,Dairy Person,270,Stores,Vancouver,Dairy,Stores,27.20365391,William,Vancouver,Elliot,1,4.500767083
+1597727834112,0.0,Dairy Person,723,Stores,Nelson,Dairy,Stores,16.92093664,Michele,Nelson,Todd,0,4.079128068
+1606317768704,23.87049524,Dairy Person,714,Stores,Vancouver,Dairy,Stores,25.08333567,John,Vancouver,Bowman,1,5.560105989
+1614907703296,0.0,Dairy Person,700,Stores,Kelowna,Dairy,Stores,16.99362546,Beulah,Kelowna,Morris,0,5.59403512
+1623497637888,0.0,Cashier,766,Stores,Prince George,Customer Service,Stores,26.38730533,Janet,Prince George,Kirkpatrick,0,2.320855141
+1623497637889,0.0,Cashier,836,Stores,Vernon,Customer Service,Stores,23.4780968,John,Armstrong,Solis,1,3.91875235
+1623497637890,0.0,Meat Cutter,274,Stores,Nanaimo,Meats,Stores,29.29626454,Richard,Parksville,Morgan,1,3.812514201
+1632087572480,0.0,Shelf Stocker,808,Stores,Richmond,Processed Foods,Stores,20.02198107,Betty,Richmond,Vierra,0,7.848937141
+1649267441664,11.96899974,Shelf Stocker,776,Stores,Kelowna,Processed Foods,Stores,28.07447413,Paul,Fruitvale,Moore,1,6.068596235
+1666447310848,0.0,Cashier,841,Stores,Vernon,Customer Service,Stores,16.45318349,Irene,Vernon,Greenblatt,0,3.024309963
+1683627180032,0.0,Dairy Person,803,Stores,Victoria,Dairy,Stores,23.80462699,Evelyn,Cumberland,Kearney,0,4.576617393
+1692217114624,0.0,Shelf Stocker,810,Stores,New Westminster,Processed Foods,Stores,21.38608036,Cory,New Westminster,Narvaez,0,4.172262296
